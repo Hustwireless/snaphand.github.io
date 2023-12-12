@@ -6,6 +6,7 @@ title: "Welcome to Our Robotics Project"
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/home.png
+  overlay_filter: 0.5
   actions:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "/docs/quick-start-guide/"
