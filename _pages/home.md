@@ -8,6 +8,7 @@ header:
   actions:
     - label: "Learn More"
       url: "/about/"
+permalink: /
 excerpt: "Exploring the Future of Robotics and Automation."
 ---
 
